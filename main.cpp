@@ -24,8 +24,11 @@ using namespace std;
 
   }*/
     int main() {
-	  cout<<"Christian Soledispa";
-    cout << "Josue Singaña\n";
+        cout << "Realizando cambios en el código...\n"
+        cout << "INTEGRANTES:"
+	    cout <<"Christian Soledispa";
+        cout << "Josue Singaña\n";
+        cout << "Diana Katherine Almeida"
 
     if laberinto[i][j] == 3:
         return [(i, j)]
